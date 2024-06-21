@@ -1,5 +1,6 @@
 **Title:**
 Bellabeat Case Study: Optimizing User Health Through Smart Insights
+
 **Objective:**
 Identify trends in how consumers use non-Bellabeat smart devices, identify trends in physilogical signals and apply insights to make smart recommendations and improve Bellabeat’s marketing strategy.
 
