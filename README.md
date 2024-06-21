@@ -8,7 +8,7 @@ I have further extended the work done by Macarena Lacasa by analysing the "heart
 We also developed a positbve correlation between the "heart rate & total steps taken" and negative correlation between " heart rate & total minutes slept".
 The insights from the analysis can be used by the bellabeat company to deliver timed recommendations (lifestyle changes or relaxation exercises)
 to the users to maintain a healthy heart rate.
-(The deatiled analysis and code can be found in the R script file attached.)
+(The deatiled analysis and code can be found in the R script file attached, heartrate_second_merged.csv is only a sample file (original file not attached cause of size limitations)and original csv file can be found on kaggle link given below.)
 
 
 **Reference:**
