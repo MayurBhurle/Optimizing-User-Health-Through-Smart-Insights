@@ -4,6 +4,8 @@ Analyzed heart rate variations from smart device fitness data, resulting in acti
 timed recommendations to maintain a healthy heart rate.
 
 
+
+
 **Details:**
 
 **1. Title:**
