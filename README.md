@@ -3,8 +3,8 @@
 Analyzed heart rate variations from smart device fitness data, resulting in actionable insights for delivering
 timed recommendations to maintain a healthy heart rate.
 
-**
-Details:**
+
+**Details:**
 
 **1. Title:**
 Bellabeat Case Study: Optimizing User Health Through Smart Insights
