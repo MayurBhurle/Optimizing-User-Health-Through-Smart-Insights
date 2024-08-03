@@ -1,4 +1,5 @@
 **Abstract:**
+
 Analyzed heart rate variations from smart device fitness data, resulting in actionable insights for delivering
 timed recommendations to maintain a healthy heart rate.
 
