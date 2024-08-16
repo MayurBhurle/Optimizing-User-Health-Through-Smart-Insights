@@ -1,3 +1,12 @@
+**RESUME POINTER**
+Optimizing User Health Through Smart Insights;	Jul-Aug, 2024;
+◦	Analyzed heart rate variations to recommend lifestyle changes for maintaining a healthy heart rate.
+◦	Identified correlations between heart rate, steps taken and mins. slept for personalized recommendations.
+
+
+
+
+
 **Abstract:**
 
 Analyzed heart rate variations from smart device fitness data, resulting in actionable insights for delivering
