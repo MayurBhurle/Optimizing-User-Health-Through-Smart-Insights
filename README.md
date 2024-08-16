@@ -4,6 +4,8 @@
 Optimizing User Health Through Smart Insights;	Jul-Aug, 2024;
 
 1.Analyzed heart rate variations to recommend lifestyle changes for maintaining a healthy heart rate.
+
+
 2.Identified correlations between heart rate, steps taken and mins. slept for personalized recommendations.
 
 
