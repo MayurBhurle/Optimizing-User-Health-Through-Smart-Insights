@@ -1,7 +1,7 @@
 **RESUME POINTER**
 
 
-Optimizing User Health Through Smart Insights;	Jul-Aug, 2024;
+Optimizing User Health Through Smart Insights;	
 
 1.Analyzed heart rate variations to recommend lifestyle changes for maintaining a healthy heart rate.
 
